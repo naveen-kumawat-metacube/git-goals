@@ -2,4 +2,4 @@
 
 echo "Hello World";
 
-echo "File added to git";
+echo "File added to git with commit";
